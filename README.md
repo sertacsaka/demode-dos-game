@@ -1,5 +1,5 @@
 # demode-dos-game
-## VGA 256 color 320x200 DOS shoot'em up game coded with C without sound
+## VGA 256 color 320x200 DOS shoot'em up coded with C without sound
 
 Name Pun: demode ("dated" in Turkish), d-mode, (and may be) destruction mode :)
 
