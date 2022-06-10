@@ -1,0 +1,1 @@
+#include"dmd\grv1.c" /* aslinda 3 gorev yapicaktim ama sikinti basti =P */

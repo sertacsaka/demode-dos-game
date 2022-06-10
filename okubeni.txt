@@ -1,0 +1,48 @@
+
+   DMD_kod.zip aþaðýdaki dosyalarý içermektedir:
+
+	( "dmd.c" yi  derlemeniz yeterlidir. )
+
+	* ..\dmd.c
+
+	* ..\klavye.c
+	* ..\zaman.c
+	* ..\grafik.c
+
+	* ..\sincos.c
+	* ..\dgmfonks.c
+	* ..\arkaplan.c
+	* ..\anifonks.c
+	* ..\svyfonks.c
+	* ..\svyler.c
+	* ..\grv1svy1.c
+	* ..\grv1svy2.c
+	* ..\grv1svy2.c
+	* ..\bns_svy1.c
+	* ..\bns_svy2.c
+	* ..\grvgrfk.c
+	* ..\grvler.c
+	* ..\grv1.c
+	* ..\basveson.c
+
+	( "dmd.c" yi derlemek için aþaðýdaki dosyalara gerek yoktur. )
+
+	* ..\kaynak01.xcp
+	* ..\kaynak02.xcp
+	* ..\kaynak03.xcp
+
+	* ..\kodliste.txt
+
+	* ..\PCX2XCP\pcx2xcp.c
+
+	* ..\PCX2XCP\kaynak01.pcx
+	* ..\PCX2XCP\kaynak02.pcx
+	* ..\PCX2XCP\kaynak03.pcx
+
+	( kodlarla ilgili açýklamalar ilgili dosyalarýn içindedir. )
+
+     Yukarýda adý geçen dosyalarýn tüm haklarý Sertaç Saka'ya aittir.
+
+	sertacsaka@hotmail.com
+
+...
