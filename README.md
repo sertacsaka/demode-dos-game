@@ -3,12 +3,16 @@
 
 Name Pun: demode ("dated" in Turkish), d-mode, (and may be) destruction mode :)
 
-It's a rather clumsy, cliché-filled and, I think, unnecessarily difficult game. 
+It's a rather clumsy, cliché-filled and I think, unnecessarily difficult game.
 Still, it is a work that I spent a lot of time on and enjoyed while design and coding.
 
-When I coded it I compiled it with Turbo C on a DOS or Windows 95 PII 233 pc.
+When I coded it I compiled it with Turbo C on a PII 233 pc. It must be DOS or Windows 95, I'm not sure.
 Nowadays, to do the same thing you will probably need either a non-64 bit operating system or a virtual machine with old DOS/Windows installed.
 I can even say that the same conditions are required to play, it is such a historical development.
+
+
+
+https://user-images.githubusercontent.com/106110139/173138002-ac43d8e3-1dd5-4ae7-9183-94a72a6b3aa6.mp4
 
 
 
