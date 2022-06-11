@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/106110139/173138002-ac43d8e3-1dd5-4ae7
 
 
 
-You can find the DOSBox package as a zip in the this repo ready to play. 
+You can find the DOSBox package as a zip in this repo ready to play. 
 After opening the zip file, you can start the game by running the dmd.bat file.
 
 Here is the controls:
